@@ -1,0 +1,11 @@
+File Name : KS_TODO
+Project Name : pragma-todo
+Author: Keallan Saunders 219169357@mycput.ac.za
+Software Editor : React.js using ATOM.EXE
+Due: 08h00 26 July 2022
+COMP ACTIONS: ADD ITEM, REMOVE ITEM, SET ITEM Done
+EXTRA ITEM: CHANGE ITEM, SAVE CHANGES, CANCEL CHANGES
+LANG: HTML5,CSS3,JAVASCRIPT
+
+
+PROJECT FILES : AddToDo.js ,Main.js ,TodoItem.js ,ToDoList.js ,index.css ,App.js ,KeallanSaundersBrief.txt
